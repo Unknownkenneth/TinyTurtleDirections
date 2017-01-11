@@ -12,7 +12,15 @@ forward(10);
  
  right(-90)
  
- forward(10)
+ forward(20)
+ 
+ left(90)
+ 
+ 
+ 
+ 
+ 
+ 
  
 stamp();
 
